@@ -1,10 +1,9 @@
 {
-  "ignore": [],
+  "title": "J*B Application",
+  "type": "npc",
   "tags": [
     "realism",
-    "cartoon",
-    "fun"
+    "cartoon"
   ],
-  "title": "J*B Application",
-  "type": "npc"
+  "ignore": []
 }
