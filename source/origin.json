@@ -4,8 +4,8 @@
   "title": "[PILL PACK] Job Application",
   "author": "Blastnit",
   "status": "extracted_verified",
-  "acquisition": "existing_steam_client_installation",
-  "steamcmd_download_completed": false,
+  "acquisition": "steamcmd",
+  "steamcmd_download_completed": true,
   "source_workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3589143877",
   "source_archive_sha256": "15be8185b555e249869a308bf83e7cd4fcc1821ed16c128d06963161da67f596",
   "gma_header": {
