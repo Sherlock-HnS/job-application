@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+    "$basetexture" "hud/highlight.vtf"
+    "$translucent" "1"
+}

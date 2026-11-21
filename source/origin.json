@@ -1,0 +1,22 @@
+{
+  "id": "3589143877",
+  "name": "job-application",
+  "title": "[PILL PACK] Job Application",
+  "author": "Blastnit",
+  "status": "extracted_verified",
+  "acquisition": "existing_steam_client_installation",
+  "steamcmd_download_completed": false,
+  "source_workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3589143877",
+  "source_archive_sha256": "15be8185b555e249869a308bf83e7cd4fcc1821ed16c128d06963161da67f596",
+  "gma_header": {
+    "title": "J*B Application",
+    "description": "{\"title\":\"J*B Application\",\"type\":\"npc\",\"tags\":[\"realism\",\"cartoon\",\"fun\"],\"ignore\":[]}",
+    "author": "Author Name",
+    "steam_id": "0",
+    "timestamp": 1760792374
+  },
+  "files": 42,
+  "payload_bytes": 111443517,
+  "roundtrip_verified": true,
+  "packaging_exclusions": []
+}

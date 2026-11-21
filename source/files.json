@@ -1,0 +1,254 @@
+[
+  {
+    "path": "lua/autorun/animsoundjob.lua",
+    "size": 387,
+    "crc": 635172113,
+    "sha256": "f8a9ccda2436d85b630c920ae23396781a7e5973099211204456f466274e614b"
+  },
+  {
+    "path": "lua/autorun/client/cl_job.lua",
+    "size": 1792,
+    "crc": 724480979,
+    "sha256": "4f62a1708a358077358608abdabd6b3befc60385f9a66970beacc86d4815a9d0"
+  },
+  {
+    "path": "lua/autorun/include/job.lua",
+    "size": 43304,
+    "crc": 1673029318,
+    "sha256": "5f5b04274343b2e90ebc15ee6d4d61b272a095f8cd4701227bfdb2203a7aa671"
+  },
+  {
+    "path": "lua/autorun/pill_base_job.lua",
+    "size": 1297,
+    "crc": 222197635,
+    "sha256": "f3470efaeff88c295e21855b89d2bbe32827c1071b645ff7f64884f50e1cf146"
+  },
+  {
+    "path": "materials/hud/highlight.vmt",
+    "size": 84,
+    "crc": 3576136316,
+    "sha256": "837d11445df118ca29c55428d6e2a7f19d17f5cd2eea546c16a81070d3c9e9b5"
+  },
+  {
+    "path": "materials/hud/highlight.vtf",
+    "size": 349776,
+    "crc": 1017748554,
+    "sha256": "c45705436b8f37b9548fb1354e5497813601776b7835e77fa6e8c46222317cd1"
+  },
+  {
+    "path": "materials/icon/jobicon.png",
+    "size": 60213,
+    "crc": 1716857022,
+    "sha256": "748eb629fe5251b3ff54d636d75a538d4ef2e3a03668f7b77078399e999357be"
+  },
+  {
+    "path": "materials/models/blast/job_application/black.vmt",
+    "size": 80,
+    "crc": 3597055186,
+    "sha256": "54e731cc217961a472539e085ba0c80cb94560eca61ab53abda4d54553cd37e3"
+  },
+  {
+    "path": "materials/models/blast/job_application/black.vtf",
+    "size": 67109071,
+    "crc": 3796160851,
+    "sha256": "97fea1afaca6985163c88056fff8e37872d50bf9a7a2e8a4e92943fc0190ef38"
+  },
+  {
+    "path": "materials/models/blast/job_application/human_parts.vmt",
+    "size": 479,
+    "crc": 1689456970,
+    "sha256": "612b5baf179270c9297ac46cade764d701a766b6cad5d4319eb6bb961516d439"
+  },
+  {
+    "path": "materials/models/blast/job_application/human_parts.vtf",
+    "size": 5592612,
+    "crc": 2710194549,
+    "sha256": "53371711d64f7dfcf37388cbe798bd1cdfa929d70c1f505b7ebefaa7feedf2b8"
+  },
+  {
+    "path": "materials/models/blast/job_application/human_parts_normal.vmt",
+    "size": 93,
+    "crc": 514929304,
+    "sha256": "985610f6817205209f86eb7ea0f10444ead6a3711428466d124e6b8663952d88"
+  },
+  {
+    "path": "materials/models/blast/job_application/human_parts_normal.vtf",
+    "size": 5592612,
+    "crc": 1662787167,
+    "sha256": "17fdf38d104efb35eab06a6ca961e3bad5a878dd2ea38736fb2c6d1ce6ad5be3"
+  },
+  {
+    "path": "materials/models/blast/job_application/human_parts_roughness.vmt",
+    "size": 96,
+    "crc": 980385763,
+    "sha256": "3aa9b40f06693388efc97cda294a685d7f3b6a3633ea0905e2b3f2ef1a59db60"
+  },
+  {
+    "path": "materials/models/blast/job_application/human_parts_roughness.vtf",
+    "size": 5592612,
+    "crc": 2826621944,
+    "sha256": "f1c434c7aab776e391a7c463e08abd4e2de11e2e79ffcda5e87e3aa71d8aec6b"
+  },
+  {
+    "path": "materials/models/blast/job_application/job_apllcation.vmt",
+    "size": 501,
+    "crc": 2457353735,
+    "sha256": "e6a6f11405a53f026566fd4f3cbd5fdcb6c76dfc07340ce99f707ce629b0a283"
+  },
+  {
+    "path": "materials/models/blast/job_application/job_applicaiton_roughness.vmt",
+    "size": 100,
+    "crc": 526397258,
+    "sha256": "e6ffb0400d1a9b122ab63f875c4e2f4a09efcc305416126bda2ba19f8447e341"
+  },
+  {
+    "path": "materials/models/blast/job_application/job_applicaiton_roughness.vtf",
+    "size": 5592612,
+    "crc": 13557189,
+    "sha256": "396e6a26afa051800e420e8d1b1c621234c8fea322a8f10c450338291efb50f9"
+  },
+  {
+    "path": "materials/models/blast/job_application/job_application.vtf",
+    "size": 5592612,
+    "crc": 4141065467,
+    "sha256": "b297a7f2bbea580a25d238120c58123cb40b9a783a55cc287c535fbe6bb5eaa3"
+  },
+  {
+    "path": "materials/models/blast/job_application/job_application_normal.vmt",
+    "size": 97,
+    "crc": 2872576028,
+    "sha256": "811a0fffca7c2a54b543b2e07f455b9a83be4f4fa0121118c21955816a513957"
+  },
+  {
+    "path": "materials/models/blast/job_application/job_application_normal.vtf",
+    "size": 5592612,
+    "crc": 1638523062,
+    "sha256": "fe19c2a23d4883935e9afe9ba1a581004bb7b93a971b3bd742ce2b197dc6f2fc"
+  },
+  {
+    "path": "materials/pills/pill_job.png",
+    "size": 1851532,
+    "crc": 849877586,
+    "sha256": "ba5040e6c8239af97cbe2aece1f375413808a92dbb27324e823c03ff885b8e71"
+  },
+  {
+    "path": "models/blast/job_application.dx80.vtx",
+    "size": 178303,
+    "crc": 502523837,
+    "sha256": "68f9556a7c2cd3e77c1c41347398103ead1adf355103d72aa03f404504721dcd"
+  },
+  {
+    "path": "models/blast/job_application.dx90.vtx",
+    "size": 176858,
+    "crc": 4224384720,
+    "sha256": "ef70a10121aefabcc1d526726500563eb8772c4f6cc078a13569361bcb9ff6c9"
+  },
+  {
+    "path": "models/blast/job_application.mdl",
+    "size": 336584,
+    "crc": 1389991760,
+    "sha256": "bc8e90989ce09cdb9fed5f8e75e0da29dca39f1cc064fba2c43225b28b826fb4"
+  },
+  {
+    "path": "models/blast/job_application.vvd",
+    "size": 589696,
+    "crc": 2850969952,
+    "sha256": "48d8de5e5927fb7f96fb26311942aa62d77adf83e09903b5cd1b3baee1b14a21"
+  },
+  {
+    "path": "resource/fonts/basic5.ttf",
+    "size": 10390,
+    "crc": 1993202364,
+    "sha256": "b4c90a1d6c1f237044423e23ed8d82d2006a60ea2cbea7f7bd44e4c1e6d6ccaa"
+  },
+  {
+    "path": "resource/fonts/times.ttf",
+    "size": 347988,
+    "crc": 3121515985,
+    "sha256": "51966b27ce9d5a3f58bc4890b98bdd08efd9683b9265251ddaf09b8965a849ea"
+  },
+  {
+    "path": "sound/job/afterkill1.wav",
+    "size": 428090,
+    "crc": 2562242884,
+    "sha256": "ef0469a848b097cd699987aa499cffde96ee7589cf48403f52a8dc93e48047a0"
+  },
+  {
+    "path": "sound/job/afterkill2.wav",
+    "size": 380842,
+    "crc": 1014331465,
+    "sha256": "6271822f8e450c8d007b287e196ddc651980c2226d950bdb97c98b5233238f64"
+  },
+  {
+    "path": "sound/job/afterkill3.wav",
+    "size": 590602,
+    "crc": 742527790,
+    "sha256": "600da11c3ffdbfea86276480e0d63fa121669e2496252811a21a71477181ca1f"
+  },
+  {
+    "path": "sound/job/afterkill4.wav",
+    "size": 378654,
+    "crc": 1568902816,
+    "sha256": "0568a93b8dfe0c7e8bd53daee504cccd4e2d9641d2805aed338a5637d551bbd5"
+  },
+  {
+    "path": "sound/job/highlight1.wav",
+    "size": 1080386,
+    "crc": 2889016264,
+    "sha256": "5d61a5c8a3bf94b6e69808d3afcbc0e3f8bd0296b69819878179c2200dd52117"
+  },
+  {
+    "path": "sound/job/highlight2.wav",
+    "size": 984366,
+    "crc": 3276173471,
+    "sha256": "2a1240ef6cebc59b103710122049d067327527b343219695c82794bff5d21b25"
+  },
+  {
+    "path": "sound/job/highlight3.wav",
+    "size": 399086,
+    "crc": 315045284,
+    "sha256": "58dc9336c93132b362a2b9150380f34004b65e931d6b8bc7ffcb7f7dc5068cb8"
+  },
+  {
+    "path": "sound/job/kill.wav",
+    "size": 1752910,
+    "crc": 545252129,
+    "sha256": "721a20ae686d3262e45809e0342dc9cc31c25b94dc89ba17869ef20c459616a1"
+  },
+  {
+    "path": "sound/job/papercooldownover.wav",
+    "size": 434066,
+    "crc": 1148868252,
+    "sha256": "4f96058ba5a2e9b751d24887a91255db1abedc22117cd581aa67ca5c1f588bd3"
+  },
+  {
+    "path": "sound/job/step1.wav",
+    "size": 80454,
+    "crc": 943145969,
+    "sha256": "ce6945b7bc9a014d6cd3b3a341ed9ff7a22bd133053e482d107f84ed3ce1790f"
+  },
+  {
+    "path": "sound/job/step2.wav",
+    "size": 74030,
+    "crc": 1585871781,
+    "sha256": "fdfcd8dfc8c71171154fb88ebff5149896bfb1e0bbe492e724dec228362eea1b"
+  },
+  {
+    "path": "sound/job/step3.wav",
+    "size": 80454,
+    "crc": 4263676210,
+    "sha256": "5a222f4bb97eb84c45fdc598763c164259770214fed61bb3243debd70a976617"
+  },
+  {
+    "path": "sound/job/step4.wav",
+    "size": 89018,
+    "crc": 3124222481,
+    "sha256": "955ba058a7e4c7faa36c02c1d411dfac6235a3c167d70aa3bd898ac2c80faef5"
+  },
+  {
+    "path": "sound/job/step5.wav",
+    "size": 76166,
+    "crc": 1050593618,
+    "sha256": "9f43fa63a1364ce98d4bd4f716638f62bdda7c9570a8e95a241cf55758e7d725"
+  }
+]
