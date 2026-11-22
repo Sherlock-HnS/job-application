@@ -1,4 +1,4 @@
-[PILL PACK] Job Application
+# [PILL PACK] Job Application
 
 ![Workshop preview](workshop-preview.jpg)
 
